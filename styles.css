@@ -1,10 +1,38 @@
 body {
 font-family: "Helvetica", sans-serif;
+  color: #210a01;
+  padding: 175px;
+  background-color: #FAEDEA;
+}
+h1 {
+color: #4A3028;
+text-align: center;
 }
 h2 {
-color: #7A0019;
+color: #4A3028;
 }
 #contact {
 background-color: #FFDE7A;
 padding: 2%;
+}
+#contact2 {
+background-color: #FFDE7A;
+padding: .20%;
+}
+
+#contact3 {
+   background-color: #F2D8D5;
+    background-image: radial-gradient(#4A3028 4px, transparent 5px);
+    background-size: 35px 35px;
+    width: 140px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#cursive {
+    font-family: "Snell Roundhand", cursive;
+    font-size: 350%;
+    color: #4A3028;
+    text-align: center;
 }
